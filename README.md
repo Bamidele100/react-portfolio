@@ -6,11 +6,11 @@ The goal of this assignment is to create react portfolio so as to showcase skill
 
 ## Built With:
 
-Javascript
-NodeJS
-React
-Bootstrap
-React Router documentation
+Javascript,
+NodeJS,
+React,
+Bootstrap,
+React Router documentation,
 React Social Icons
 
 ## Generated images
