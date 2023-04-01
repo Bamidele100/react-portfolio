@@ -30,4 +30,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Deployed URL and Repository
 
+https://bamidele100.github.io/react-portfolio/
+
 https://github.com/Bamidele100/react-portfolio.git
