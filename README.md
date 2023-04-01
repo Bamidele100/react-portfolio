@@ -6,11 +6,11 @@ The goal of this assignment is to create react portfolio so as to showcase skill
 
 ## Built With:
 
-Javascript
-NodeJS
-React
-Bootstrap
-React Router documentation
+Javascript,
+NodeJS,
+React,
+Bootstrap,
+React Router documentation,
 React Social Icons
 
 ## Generated images
@@ -29,5 +29,7 @@ Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Deployed URL and Repository
+
+https://bamidele100.github.io/react-portfolio/
 
 https://github.com/Bamidele100/react-portfolio.git
